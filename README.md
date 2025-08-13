@@ -1,21 +1,15 @@
-👋 Hey, I’m Neelesh Pandey
-🎓 Second-year B.Tech Student at NITRA Technical Campus
-💻 Passionate about problem-solving, 💡 software development, and 🌍 impactful tech projects
-🚀 Exploring C++ | Python | Web Development | Data Structures & Algorithms
+<h1 align="center">Hi 👋, I'm Neelesh Pandey</h1>
+<h3 align="center">Open-Source enthusiast and passionate programmer</h3>
 
-🔧 Tech Arsenal 🛠️
-📜 Languages: 🖋️ C++ | 🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ JavaScript
+- 🌱 I’m currently learning **C++, Python, HTML, CSS, JavaScript**
 
-💡 Core Skills: 📊 Data Structures | 🔄 Algorithms | 🏗️ OOP | 🧠 Problem-Solving
+- 📫 How to reach me **pandeyneelesh59@gamil.com**
 
-🖥️ Tools & Platforms: 🐙 Git | 💻 GitHub | 🛠️ VS Code
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/neelesh pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neelesh pandey" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/neelesh_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neelesh_pandey" height="30" width="40" /></a>
+</p>
 
-📈 My Mission 🎯
-💬 Code. Build. Learn. Repeat.
-I believe in 🛠️ creating projects that not only solve problems but also make an 🌟 impact.
-Every commit ➕ is a step toward 🏆 mastery.
-
-📫 Let’s Connect 🤝
-
-
-⚡ “Discipline is the bridge between goals and accomplishment.” ✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
